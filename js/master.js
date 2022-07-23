@@ -68,11 +68,6 @@ RandomBackgroundEl.forEach(span => {
 });
 
 
-
-
-
-
-
 //last code 
 /*
 //Select Landing page Element ,,first idea
